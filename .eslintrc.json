@@ -24,6 +24,6 @@
       "dist/",
       "build/",
       "components/",
-      "redux",
+      "redux/"
     ]
   }
